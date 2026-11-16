@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-initramfs-tools"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS initramfs-tools component - boot"
+
+[lib]
+name = "initramfs_tools"
+path = "src/lib.rs"
