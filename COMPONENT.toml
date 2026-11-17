@@ -3,7 +3,7 @@ name = "SigmaOS-initramfs-tools"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "initramfs-tools component"
+description = "initramfs tools component"
 upstream = []
 
 [contract]
